@@ -67,6 +67,3 @@ Public Kaggle streaming-catalog datasets. Note the limitations called out in the
 - No official "Originals" flags or true viewership numbers in the public data
 - Catalog snapshots are historical (roughly up to 2021) — current libraries have since changed
 
-## License
-
-No license file is currently included — add one (e.g., MIT) if you want others to reuse this freely.
